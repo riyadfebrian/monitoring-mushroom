@@ -3,10 +3,10 @@
 This is documentation for a project internship in PT. Mitra Tani Damarayu. 
 <br>Project by <b>Riyad Febrian and Duwi Hariyanto</b>
 <br>
-<p align="center">
-  <img src="(https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg">
-</p>
-
+<center>
+![System](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/system.jpg)
+![Screenshot](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg)
+</center>
 
 ## Getting Started
 
