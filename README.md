@@ -1,7 +1,12 @@
 # System Monitoring for Mushroom based on NodeMCU and Android
 
 This is documentation for a project internship in PT. Mitra Tani Damarayu. 
-Project by <b>Riyad Febrian and Duwi Hariyanto</b>
+<br>Project by <b>Riyad Febrian and Duwi Hariyanto</b>
+<br>
+<p align="center">
+  <img src="(https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg">
+</p>
+
 
 ## Getting Started
 
