@@ -4,9 +4,13 @@ This is documentation for a project internship in PT. Mitra Tani Damarayu.
 <br>Project by <b>Riyad Febrian and Duwi Hariyanto</b>
 <br>
 
-![System](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/system.jpg)
-<br>
-![Screenshot](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/system.jpg">
+</p>
+
+<p align="center">
+  <img width="360" height="640" src="https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg">
+</p>
 
 
 ## Getting Started
