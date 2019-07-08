@@ -5,6 +5,7 @@ This is documentation for a project internship in PT. Mitra Tani Damarayu.
 <br>
 <center>
 ![System](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/system.jpg)
+<br>
 ![Screenshot](https://github.com/riyadfebrian/system-monitoring-for-mushroom-based-on-nodemcu-android/blob/master/image/screenshot.jpg)
 </center>
 
