@@ -1,7 +1,7 @@
 # System Monitoring for Mushroom based on NodeMCU and Android
 
 This is documentation for a project internship in PT. Mitra Tani Damarayu. 
-Project by <b>Riyad Febrian and Duwi Hariyant</b>
+Project by <b>Riyad Febrian and Duwi Hariyanto</b>
 
 ## Getting Started
 
@@ -43,6 +43,6 @@ for the next feature, i'll add some actuator like water spray, fan, etc to make 
 1. [Macroyau Thingspeak Library](https://github.com/MacroYau/ThingSpeakAndroid)
 2. [HelloCharts Android Library](https://github.com/lecho/hellocharts-android)
 3. [ESP8266 Library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi)
-4. [Knlleary PubSubClient](https://github.com/knolleary/pubsubclient)
+4. [Knolleary PubSubClient](https://github.com/knolleary/pubsubclient)
 5. [Adafruit DHT Library](https://github.com/adafruit/DHT-sensor-library)
 6. [GeorgK MQ135 Library](https://github.com/GeorgK/MQ135)
